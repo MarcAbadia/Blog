@@ -119,7 +119,7 @@ img{
 }
 
 .padding{
-    padding-top: 2rem;
+    padding-top: 1.5rem;
 }
 
 
@@ -144,6 +144,9 @@ img{
     text-decoration-skip-ink: none;
     color: #C0C5D0;
 }
+
+
+
 
 .image2{
     width: 320px;
